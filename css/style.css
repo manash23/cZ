@@ -159,7 +159,7 @@ h1 {
 	
 }
 .contact-items h2 {
-	padding-top: 5vh;
+	padding-top: 4vh;
 	color: #fff;
 	font-size: 5vw;
 	margin-bottom: 5vh;
@@ -167,13 +167,12 @@ h1 {
 .contact-items input[type="text"]{
 	border-radius: 2vw;
 	margin-bottom: 1vh;
-	padding: 1.5vw;
-	width: 55%;
+	padding: 1vw;
+	width: 45%;
 }
 .contact-items textarea{
 	border-radius: 1vw;
-	height: 10vh;
-	padding: 1.2vw;
+	height: 9vh;
 	width:55%;
 	margin-bottom: 2vw;
 
