@@ -162,7 +162,7 @@ h1 {
 	padding-top: 5vh;
 	color: #fff;
 	font-size: 5vw;
-	margin-bottom: 8vh;
+	margin-bottom: 5vh;
 }
 .contact-items input[type="text"]{
 	border-radius: 2vw;
@@ -175,7 +175,7 @@ h1 {
 	height: 10vh;
 	padding: 1.2vw;
 	width:55%;
-	margin-bottom: 3vw;
+	margin-bottom: 2vw;
 
 }
 .contact-items h2{
@@ -183,11 +183,11 @@ h1 {
 }
 .contact-items a{
 	text-decoration: none;
-	font-size: 2vw;
+	font-size: 1.5vw;
 	color: #fff;
 	background-color: #000;
 }
-#padsections{
+#padcontents{
 	padding-top: 1vh;
 }
 .resizeimage {
